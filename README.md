@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
     <title>document</title>
   </head>
   <body>
-    I am hiamnshu sharma.
+    I am himanshu sharma.
      i belogs to patna.
     i am intersted in  designing the websites and games using fontend language.
   </body>
